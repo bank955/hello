@@ -1,4 +1,10 @@
 # hello
+I think session security is good for the team.
+Because it teaches about preventing apps from being attacked and stealing data.
+
+Overall, I think the Mobile Conference 2019 will benefit the team.
+Very much want the supervisor to consider
+
 I recommend
 Mobile Conference 2019 for those interested in technology.
 This event is an event that provides knowledge with experts to introduce new technologies.
