@@ -1,4 +1,15 @@
 # hello
+I recommend
+Mobile Conference 2019 for those interested in technology.
+This event is an event that provides knowledge with experts to introduce new technologies.
+In the development of mobile applications
+
+Organized at the hotel s31. The event consists of 4 sessions including ios, Android, cross platform and security.
+
+In which, and in each session, a speaker will be given
+Cross platform, for example, talks about the development of applications with Flutter that can write once, run on 3 platforms including web, Android and ios.
+
+I think this session is very useful to my team because our work includes web, Android, ios.
 Part1
 Hi,วันนี้ฉันขอแนะนำงาน Mobile Conf 2019 เป็น technical training ที่ให้ผู้เชียวชาญมาสอนเกี่ยวกับเทคโนโลยีใหม่ๆในการพัฒนาแอปพลิเคชั่นบนมือถือ จัดขึ้นที่โรงแรม s31 โดยในงาน Mobile Conf 2019 ประกอบไปด้วย 4 session ได้แก่ ios , Android, cross platform และ security ในแต่และ session จะมี speaker สอนเกี่ยวเรื่องนั้นๆ เช่น cross platform จะพูดถึงการพัฒนาแอปพลิชันด้วย Flutter ที่จะสามารถเขียนครั้งเดียว run ได้ 3 platform  ได้แก่ web,  Android และ ios
 ฉันคิดว่า session นี้มีประโยนชน์กับทีมของฉันมากเพราะโปรดักของเรามีทั้ง web ,Android, ios  และฉันคิดว่า session security มีประโยชน์ต่อทีมเพราะสอนเกี่ยวกับการป้องกันไม่ให้แอปพลิเคชันถูกโจมตีและขโมยข้อมูลจากแอปพลิเคชัน
